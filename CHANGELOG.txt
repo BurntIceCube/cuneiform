@@ -1,0 +1,5 @@
+05.16.2023 Project created
+05.17.2023 Bare web scraper created to pull word attributes from multi-lingual dictionaries
+05.18.2023 Changed folder structure to allow for cross-platform development. Added Spring Boot integration for web development.
+           Added BootStrap and ThymeLeaf for web development.  Added controllers to allow for web routing.
+           Created mockups of webpages using Figma.

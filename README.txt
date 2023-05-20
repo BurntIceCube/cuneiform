@@ -1,1 +1,1 @@
-program which takes a word frequency list and generates sample sentences and conjugations
+language learning application which uses a spaced repetition algorithm for memorization. the program uses a frequency list of top languages to generate example sentences, pronunciation, images, conjugations, and translations, (and possibly definitions in the future).
